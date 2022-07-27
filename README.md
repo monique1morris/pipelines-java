@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/NPDGroup/Data%20Dictionary%20POC/_apis/build/status/monique1morris.pipelines-java?branchName=main)](https://dev.azure.com/NPDGroup/Data%20Dictionary%20POC/_build/latest?definitionId=3130&branchName=main)
 
 # Contributing
 
